@@ -2,7 +2,7 @@ Summary:	Sphinx extension for rendering tables written in markdown
 Summary(pl.UTF-8):	Rozszerzenie Sphinksa do renderowania tabel napisanych w markdownie
 Name:		python3-sphinx_markdown_tables
 Version:	0.0.17
-Release:	1
+Release:	2
 License:	GPL v3
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinx-markdown-tables/
